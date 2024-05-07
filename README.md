@@ -8,3 +8,8 @@ Notebooks require installation of Jupyter, free to install from https://jupyter.
 Python packages needed are Numpy, Scipy, Seaborn, Pandas, all free to install using pip for example. 
 
 Code should be download within minutes and all installations another 10 min at most. Run time for each notebook is approximately 1-10 min. All figures can be regenerated from the shared notebooks.
+
+TCR repertoire data is available to reviewers at https://clients.adaptivebiotech.com using the following credentials: reeves_review_2024@adaptivebiotech.com and password: reevesreview2024.
+
+GEO: TCR repertoire data will be released 5/13/24 under Series record GSE266695.
+ 
